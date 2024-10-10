@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou Guilherme!
 
-<!--
-**GuidoXavier/GuidoXavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Tecnologias que utilizo:
+- *Linguagens*: Java, Python, SQL, HTML, CSS, JavaScript
+- *Frameworks/Bibliotecas*: Spring Boot, React
+- *Banco de Dados*: MySQL e NoSql
+- *Ferramentas*: Git, Docker
 
-Here are some ideas to get you started:
+### 📚 Atualmente estou aprendendo:
+- Aprimorando: Spring Boot
+- Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Projetos:
+1. *[Time of Run](https://github.com/GuidoXavier/Time_Of_Run.git)*: Sentia uma certa dificuldade com o HTML e CSS, então criei esse "Jogo" para poder colocar em prática e aprimorar meu HTML, CSS e Js.
+2. *[API de Filmes](https://github.com/GuidoXavier/Projeto_API_Filmes.git)*: Um projeto simples para consumir uma API de filmes e retornar os dados desejados em formato Json.
+
+### 🌱 Próximos passos:
+- Continuar estudando e aprimorando as linguagens e frameworks para melhorar neles e com os novos conhecimentos ir aprimorando meus projetos e até mesmo criando novos.
+- Aprender mais sobre Cloud 
+
+### 📫 Como me encontrar:
+- *LinkedIn*: [Guilherme Xavier](https://www.linkedin.com/in/guilherme-xavier-a84421229/)
+- *Email*: gxavier0087@gmail.com
