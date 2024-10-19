@@ -13,6 +13,7 @@
 ### 💼 Projetos:
 1. *[Time of Run](https://github.com/GuidoXavier/Time_Of_Run.git)*: Sentia uma certa dificuldade com o HTML e CSS, então criei esse "Jogo" para poder colocar em prática e aprimorar meu HTML, CSS e Js.
 2. *[API de Filmes](https://github.com/GuidoXavier/Projeto_API_Filmes.git)*: Um projeto simples para consumir uma API de filmes e retornar os dados desejados em formato Json.
+3. *[Pokedex](https://github.com/GuidoXavier/Pokedex.git)*: Projeto simples de uma pokedex onde você pode buscar os pokemons tanto pot nome, quanto por número.
 
 ### 🌱 Próximos passos:
 - Continuar estudando e aprimorando as linguagens e frameworks para melhorar neles e com os novos conhecimentos ir aprimorando meus projetos e até mesmo criando novos.
